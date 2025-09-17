@@ -1,0 +1,217 @@
+Month,Region,Sales Channel,Product Type,Units Sold,Revenue (€)
+2023-01-01,Paris,Online,White,1800,9000
+2023-01-01,Paris,Online,Brown,1500,7500
+2023-01-01,Paris,Online,Multigrain,1200,6000
+2023-01-01,Paris,Membership,White,2200,11000
+2023-01-01,Paris,Membership,Brown,1900,9500
+2023-01-01,Paris,Membership,Multigrain,1600,8000
+2023-01-01,Paris,Retail,White,4500,18000
+2023-01-01,Paris,Retail,Brown,3800,15200
+2023-01-01,Paris,Retail,Multigrain,3000,12000
+2023-01-01,South France,Online,White,1100,5500
+2023-01-01,South France,Online,Brown,900,4500
+2023-01-01,South France,Online,Multigrain,700,3500
+2023-01-01,South France,Membership,White,1400,7000
+2023-01-01,South France,Membership,Brown,1200,6000
+2023-01-01,South France,Membership,Multigrain,1000,5000
+2023-01-01,South France,Retail,White,2500,10000
+2023-01-01,South France,Retail,Brown,2100,8400
+2023-01-01,South France,Retail,Multigrain,1700,6800
+2023-02-01,Paris,Online,White,1850,9250
+2023-02-01,Paris,Online,Brown,1550,7750
+2023-02-01,Paris,Online,Multigrain,1250,6250
+2023-02-01,Paris,Membership,White,2250,11250
+2023-02-01,Paris,Membership,Brown,1950,9750
+2023-02-01,Paris,Membership,Multigrain,1650,8250
+2023-02-01,Paris,Retail,White,4600,18400
+2023-02-01,Paris,Retail,Brown,3900,15600
+2023-02-01,Paris,Retail,Multigrain,3100,12400
+2023-02-01,South France,Online,White,1150,5750
+2023-02-01,South France,Online,Brown,950,4750
+2023-02-01,South France,Online,Multigrain,750,3750
+2023-02-01,South France,Membership,White,1450,7250
+2023-02-01,South France,Membership,Brown,1250,6250
+2023-02-01,South France,Membership,Multigrain,1050,5250
+2023-02-01,South France,Retail,White,2600,10400
+2023-02-01,South France,Retail,Brown,2200,8800
+2023-02-01,South France,Retail,Multigrain,1750,7000
+2023-03-01,Paris,Online,White,1900,9500
+2023-03-01,Paris,Online,Brown,1600,8000
+2023-03-01,Paris,Online,Multigrain,1300,6500
+2023-03-01,Paris,Membership,White,2300,11500
+2023-03-01,Paris,Membership,Brown,2000,10000
+2023-03-01,Paris,Membership,Multigrain,1700,8500
+2023-03-01,Paris,Retail,White,4700,18800
+2023-03-01,Paris,Retail,Brown,4000,16000
+2023-03-01,Paris,Retail,Multigrain,3200,12800
+2023-03-01,South France,Online,White,1200,6000
+2023-03-01,South France,Online,Brown,1000,5000
+2023-03-01,South France,Online,Multigrain,800,4000
+2023-03-01,South France,Membership,White,1500,7500
+2023-03-01,South France,Membership,Brown,1300,6500
+2023-03-01,South France,Membership,Multigrain,1100,5500
+2023-03-01,South France,Retail,White,2700,10800
+2023-03-01,South France,Retail,Brown,2300,9200
+2023-03-01,South France,Retail,Multigrain,1800,7200
+2023-04-01,Paris,Online,White,1950,9750
+2023-04-01,Paris,Online,Brown,1650,8250
+2023-04-01,Paris,Online,Multigrain,1350,6750
+2023-04-01,Paris,Membership,White,2350,11750
+2023-04-01,Paris,Membership,Brown,2050,10250
+2023-04-01,Paris,Membership,Multigrain,1750,8750
+2023-04-01,Paris,Retail,White,4800,19200
+2023-04-01,Paris,Retail,Brown,4100,16400
+2023-04-01,Paris,Retail,Multigrain,3300,13200
+2023-04-01,South France,Online,White,1250,6250
+2023-04-01,South France,Online,Brown,1050,5250
+2023-04-01,South France,Online,Multigrain,850,4250
+2023-04-01,South France,Membership,White,1550,7750
+2023-04-01,South France,Membership,Brown,1350,6750
+2023-04-01,South France,Membership,Multigrain,1150,5750
+2023-04-01,South France,Retail,White,2800,11200
+2023-04-01,South France,Retail,Brown,2400,9600
+2023-04-01,South France,Retail,Multigrain,1900,7600
+2023-05-01,Paris,Online,White,2000,10000
+2023-05-01,Paris,Online,Brown,1700,8500
+2023-05-01,Paris,Online,Multigrain,1400,7000
+2023-05-01,Paris,Membership,White,2400,12000
+2023-05-01,Paris,Membership,Brown,2100,10500
+2023-05-01,Paris,Membership,Multigrain,1800,9000
+2023-05-01,Paris,Retail,White,4900,19600
+2023-05-01,Paris,Retail,Brown,4200,16800
+2023-05-01,Paris,Retail,Multigrain,3400,13600
+2023-05-01,South France,Online,White,1300,6500
+2023-05-01,South France,Online,Brown,1100,5500
+2023-05-01,South France,Online,Multigrain,900,4500
+2023-05-01,South France,Membership,White,1600,8000
+2023-05-01,South France,Membership,Brown,1400,7000
+2023-05-01,South France,Membership,Multigrain,1200,6000
+2023-05-01,South France,Retail,White,2900,11600
+2023-05-01,South France,Retail,Brown,2500,10000
+2023-05-01,South France,Retail,Multigrain,2000,8000
+2023-06-01,Paris,Online,White,2050,10250
+2023-06-01,Paris,Online,Brown,1750,8750
+2023-06-01,Paris,Online,Multigrain,1450,7250
+2023-06-01,Paris,Membership,White,2450,12250
+2023-06-01,Paris,Membership,Brown,2150,10750
+2023-06-01,Paris,Membership,Multigrain,1850,9250
+2023-06-01,Paris,Retail,White,5000,20000
+2023-06-01,Paris,Retail,Brown,4300,17200
+2023-06-01,Paris,Retail,Multigrain,3500,14000
+2023-06-01,South France,Online,White,1350,6750
+2023-06-01,South France,Online,Brown,1150,5750
+2023-06-01,South France,Online,Multigrain,950,4750
+2023-06-01,South France,Membership,White,1650,8250
+2023-06-01,South France,Membership,Brown,1450,7250
+2023-06-01,South France,Membership,Multigrain,1250,6250
+2023-06-01,South France,Retail,White,3000,12000
+2023-06-01,South France,Retail,Brown,2600,10400
+2023-06-01,South France,Retail,Multigrain,2100,8400
+2023-07-01,Paris,Online,White,2100,10500
+2023-07-01,Paris,Online,Brown,1800,9000
+2023-07-01,Paris,Online,Multigrain,1500,7500
+2023-07-01,Paris,Membership,White,2500,12500
+2023-07-01,Paris,Membership,Brown,2200,11000
+2023-07-01,Paris,Membership,Multigrain,1900,9500
+2023-07-01,Paris,Retail,White,5100,20400
+2023-07-01,Paris,Retail,Brown,4400,17600
+2023-07-01,Paris,Retail,Multigrain,3600,14400
+2023-07-01,South France,Online,White,1400,7000
+2023-07-01,South France,Online,Brown,1200,6000
+2023-07-01,South France,Online,Multigrain,1000,5000
+2023-07-01,South France,Membership,White,1700,8500
+2023-07-01,South France,Membership,Brown,1500,7500
+2023-07-01,South France,Membership,Multigrain,1300,6500
+2023-07-01,South France,Retail,White,3100,12400
+2023-07-01,South France,Retail,Brown,2700,10800
+2023-07-01,South France,Retail,Multigrain,2200,8800
+2023-08-01,Paris,Online,White,2150,10750
+2023-08-01,Paris,Online,Brown,1850,9250
+2023-08-01,Paris,Online,Multigrain,1550,7750
+2023-08-01,Paris,Membership,White,2550,12750
+2023-08-01,Paris,Membership,Brown,2250,11250
+2023-08-01,Paris,Membership,Multigrain,1950,9750
+2023-08-01,Paris,Retail,White,5200,20800
+2023-08-01,Paris,Retail,Brown,4500,18000
+2023-08-01,Paris,Retail,Multigrain,3700,14800
+2023-08-01,South France,Online,White,1450,7250
+2023-08-01,South France,Online,Brown,1250,6250
+2023-08-01,South France,Online,Multigrain,1050,5250
+2023-08-01,South France,Membership,White,1750,8750
+2023-08-01,South France,Membership,Brown,1550,7750
+2023-08-01,South France,Membership,Multigrain,1350,6750
+2023-08-01,South France,Retail,White,3200,12800
+2023-08-01,South France,Retail,Brown,2800,11200
+2023-08-01,South France,Retail,Multigrain,2300,9200
+2023-09-01,Paris,Online,White,2200,11000
+2023-09-01,Paris,Online,Brown,1900,9500
+2023-09-01,Paris,Online,Multigrain,1600,8000
+2023-09-01,Paris,Membership,White,2600,13000
+2023-09-01,Paris,Membership,Brown,2300,11500
+2023-09-01,Paris,Membership,Multigrain,2000,10000
+2023-09-01,Paris,Retail,White,5300,21200
+2023-09-01,Paris,Retail,Brown,4600,18400
+2023-09-01,Paris,Retail,Multigrain,3800,15200
+2023-09-01,South France,Online,White,1500,7500
+2023-09-01,South France,Online,Brown,1300,6500
+2023-09-01,South France,Online,Multigrain,1100,5500
+2023-09-01,South France,Membership,White,1800,9000
+2023-09-01,South France,Membership,Brown,1600,8000
+2023-09-01,South France,Membership,Multigrain,1400,7000
+2023-09-01,South France,Retail,White,3300,13200
+2023-09-01,South France,Retail,Brown,2900,11600
+2023-09-01,South France,Retail,Multigrain,2400,9600
+2023-10-01,Paris,Online,White,2250,11250
+2023-10-01,Paris,Online,Brown,1950,9750
+2023-10-01,Paris,Online,Multigrain,1650,8250
+2023-10-01,Paris,Membership,White,2650,13250
+2023-10-01,Paris,Membership,Brown,2350,11750
+2023-10-01,Paris,Membership,Multigrain,2050,10250
+2023-10-01,Paris,Retail,White,5400,21600
+2023-10-01,Paris,Retail,Brown,4700,18800
+2023-10-01,Paris,Retail,Multigrain,3900,15600
+2023-10-01,South France,Online,White,1550,7750
+2023-10-01,South France,Online,Brown,1350,6750
+2023-10-01,South France,Online,Multigrain,1150,5750
+2023-10-01,South France,Membership,White,1850,9250
+2023-10-01,South France,Membership,Brown,1650,8250
+2023-10-01,South France,Membership,Multigrain,1450,7250
+2023-10-01,South France,Retail,White,3400,13600
+2023-10-01,South France,Retail,Brown,3000,12000
+2023-10-01,South France,Retail,Multigrain,2500,10000
+2023-11-01,Paris,Online,White,2300,11500
+2023-11-01,Paris,Online,Brown,2000,10000
+2023-11-01,Paris,Online,Multigrain,1700,8500
+2023-11-01,Paris,Membership,White,2700,13500
+2023-11-01,Paris,Membership,Brown,2400,12000
+2023-11-01,Paris,Membership,Multigrain,2100,10500
+2023-11-01,Paris,Retail,White,5500,22000
+2023-11-01,Paris,Retail,Brown,4800,19200
+2023-11-01,Paris,Retail,Multigrain,4000,16000
+2023-11-01,South France,Online,White,1600,8000
+2023-11-01,South France,Online,Brown,1400,7000
+2023-11-01,South France,Online,Multigrain,1200,6000
+2023-11-01,South France,Membership,White,1900,9500
+2023-11-01,South France,Membership,Brown,1700,8500
+2023-11-01,South France,Membership,Multigrain,1500,7500
+2023-11-01,South France,Retail,White,3500,14000
+2023-11-01,South France,Retail,Brown,3100,12400
+2023-11-01,South France,Retail,Multigrain,2600,10400
+2023-12-01,Paris,Online,White,2350,11750
+2023-12-01,Paris,Online,Brown,2050,10250
+2023-12-01,Paris,Online,Multigrain,1750,8750
+2023-12-01,Paris,Membership,White,2750,13750
+2023-12-01,Paris,Membership,Brown,2450,12250
+2023-12-01,Paris,Membership,Multigrain,2150,10750
+2023-12-01,Paris,Retail,White,5600,22400
+2023-12-01,Paris,Retail,Brown,4900,19600
+2023-12-01,Paris,Retail,Multigrain,4100,16400
+2023-12-01,South France,Online,White,1650,8250
+2023-12-01,South France,Online,Brown,1450,7250
+2023-12-01,South France,Online,Multigrain,1250,6250
+2023-12-01,South France,Membership,White,1950,9750
+2023-12-01,South France,Membership,Brown,1750,8750
+2023-12-01,South France,Membership,Multigrain,1550,7750
+2023-12-01,South France,Retail,White,3600,14400
+2023-12-01,South France,Retail,Brown,3200,12800
+2023-12-01,South France,Retail,Multigrain,2700,10800
