@@ -1,0 +1,217 @@
+Month|Region|Sales Channel|Product Type|Units Sold|Revenue (€)
+Jan-23|Paris|Online|White|1800|9000
+Jan-23|Paris|Online|Brown|1500|7500
+Jan-23|Paris|Online|Multigrain|1200|6000
+Jan-23|Paris|Membership|White|2200|11000
+Jan-23|Paris|Membership|Brown|1900|9500
+Jan-23|Paris|Membership|Multigrain|1600|8000
+Jan-23|Paris|Retail|White|4500|18000
+Jan-23|Paris|Retail|Brown|3800|15200
+Jan-23|Paris|Retail|Multigrain|3000|12000
+Jan-23|South France|Online|White|1100|5500
+Jan-23|South France|Online|Brown|900|4500
+Jan-23|South France|Online|Multigrain|700|3500
+Jan-23|South France|Membership|White|1400|7000
+Jan-23|South France|Membership|Brown|1200|6000
+Jan-23|South France|Membership|Multigrain|1000|5000
+Jan-23|South France|Retail|White|2500|10000
+Jan-23|South France|Retail|Brown|2100|8400
+Jan-23|South France|Retail|Multigrain|1700|6800
+Feb-23|Paris|Online|White|1850|9250
+Feb-23|Paris|Online|Brown|1550|7750
+Feb-23|Paris|Online|Multigrain|1250|6250
+Feb-23|Paris|Membership|White|2250|11250
+Feb-23|Paris|Membership|Brown|1950|9750
+Feb-23|Paris|Membership|Multigrain|1650|8250
+Feb-23|Paris|Retail|White|4600|18400
+Feb-23|Paris|Retail|Brown|3900|15600
+Feb-23|Paris|Retail|Multigrain|3100|12400
+Feb-23|South France|Online|White|1150|5750
+Feb-23|South France|Online|Brown|950|4750
+Feb-23|South France|Online|Multigrain|750|3750
+Feb-23|South France|Membership|White|1450|7250
+Feb-23|South France|Membership|Brown|1250|6250
+Feb-23|South France|Membership|Multigrain|1050|5250
+Feb-23|South France|Retail|White|2600|10400
+Feb-23|South France|Retail|Brown|2200|8800
+Feb-23|South France|Retail|Multigrain|1750|7000
+Mar-23|Paris|Online|White|1900|9500
+Mar-23|Paris|Online|Brown|1600|8000
+Mar-23|Paris|Online|Multigrain|1300|6500
+Mar-23|Paris|Membership|White|2300|11500
+Mar-23|Paris|Membership|Brown|2000|10000
+Mar-23|Paris|Membership|Multigrain|1700|8500
+Mar-23|Paris|Retail|White|4700|18800
+Mar-23|Paris|Retail|Brown|4000|16000
+Mar-23|Paris|Retail|Multigrain|3200|12800
+Mar-23|South France|Online|White|1200|6000
+Mar-23|South France|Online|Brown|1000|5000
+Mar-23|South France|Online|Multigrain|800|4000
+Mar-23|South France|Membership|White|1500|7500
+Mar-23|South France|Membership|Brown|1300|6500
+Mar-23|South France|Membership|Multigrain|1100|5500
+Mar-23|South France|Retail|White|2700|10800
+Mar-23|South France|Retail|Brown|2300|9200
+Mar-23|South France|Retail|Multigrain|1800|7200
+Apr-23|Paris|Online|White|1950|9750
+Apr-23|Paris|Online|Brown|1650|8250
+Apr-23|Paris|Online|Multigrain|1350|6750
+Apr-23|Paris|Membership|White|2350|11750
+Apr-23|Paris|Membership|Brown|2050|10250
+Apr-23|Paris|Membership|Multigrain|1750|8750
+Apr-23|Paris|Retail|White|4800|19200
+Apr-23|Paris|Retail|Brown|4100|16400
+Apr-23|Paris|Retail|Multigrain|3300|13200
+Apr-23|South France|Online|White|1250|6250
+Apr-23|South France|Online|Brown|1050|5250
+Apr-23|South France|Online|Multigrain|850|4250
+Apr-23|South France|Membership|White|1550|7750
+Apr-23|South France|Membership|Brown|1350|6750
+Apr-23|South France|Membership|Multigrain|1150|5750
+Apr-23|South France|Retail|White|2800|11200
+Apr-23|South France|Retail|Brown|2400|9600
+Apr-23|South France|Retail|Multigrain|1900|7600
+May-23|Paris|Online|White|2000|10000
+May-23|Paris|Online|Brown|1700|8500
+May-23|Paris|Online|Multigrain|1400|7000
+May-23|Paris|Membership|White|2400|12000
+May-23|Paris|Membership|Brown|2100|10500
+May-23|Paris|Membership|Multigrain|1800|9000
+May-23|Paris|Retail|White|4900|19600
+May-23|Paris|Retail|Brown|4200|16800
+May-23|Paris|Retail|Multigrain|3400|13600
+May-23|South France|Online|White|1300|6500
+May-23|South France|Online|Brown|1100|5500
+May-23|South France|Online|Multigrain|900|4500
+May-23|South France|Membership|White|1600|8000
+May-23|South France|Membership|Brown|1400|7000
+May-23|South France|Membership|Multigrain|1200|6000
+May-23|South France|Retail|White|2900|11600
+May-23|South France|Retail|Brown|2500|10000
+May-23|South France|Retail|Multigrain|2000|8000
+Jun-23|Paris|Online|White|2050|10250
+Jun-23|Paris|Online|Brown|1750|8750
+Jun-23|Paris|Online|Multigrain|1450|7250
+Jun-23|Paris|Membership|White|2450|12250
+Jun-23|Paris|Membership|Brown|2150|10750
+Jun-23|Paris|Membership|Multigrain|1850|9250
+Jun-23|Paris|Retail|White|5000|20000
+Jun-23|Paris|Retail|Brown|4300|17200
+Jun-23|Paris|Retail|Multigrain|3500|14000
+Jun-23|South France|Online|White|1350|6750
+Jun-23|South France|Online|Brown|1150|5750
+Jun-23|South France|Online|Multigrain|950|4750
+Jun-23|South France|Membership|White|1650|8250
+Jun-23|South France|Membership|Brown|1450|7250
+Jun-23|South France|Membership|Multigrain|1250|6250
+Jun-23|South France|Retail|White|3000|12000
+Jun-23|South France|Retail|Brown|2600|10400
+Jun-23|South France|Retail|Multigrain|2100|8400
+Jul-23|Paris|Online|White|2100|10500
+Jul-23|Paris|Online|Brown|1800|9000
+Jul-23|Paris|Online|Multigrain|1500|7500
+Jul-23|Paris|Membership|White|2500|12500
+Jul-23|Paris|Membership|Brown|2200|11000
+Jul-23|Paris|Membership|Multigrain|1900|9500
+Jul-23|Paris|Retail|White|5100|20400
+Jul-23|Paris|Retail|Brown|4400|17600
+Jul-23|Paris|Retail|Multigrain|3600|14400
+Jul-23|South France|Online|White|1400|7000
+Jul-23|South France|Online|Brown|1200|6000
+Jul-23|South France|Online|Multigrain|1000|5000
+Jul-23|South France|Membership|White|1700|8500
+Jul-23|South France|Membership|Brown|1500|7500
+Jul-23|South France|Membership|Multigrain|1300|6500
+Jul-23|South France|Retail|White|3100|12400
+Jul-23|South France|Retail|Brown|2700|10800
+Jul-23|South France|Retail|Multigrain|2200|8800
+Aug-23|Paris|Online|White|2150|10750
+Aug-23|Paris|Online|Brown|1850|9250
+Aug-23|Paris|Online|Multigrain|1550|7750
+Aug-23|Paris|Membership|White|2550|12750
+Aug-23|Paris|Membership|Brown|2250|11250
+Aug-23|Paris|Membership|Multigrain|1950|9750
+Aug-23|Paris|Retail|White|5200|20800
+Aug-23|Paris|Retail|Brown|4500|18000
+Aug-23|Paris|Retail|Multigrain|3700|14800
+Aug-23|South France|Online|White|1450|7250
+Aug-23|South France|Online|Brown|1250|6250
+Aug-23|South France|Online|Multigrain|1050|5250
+Aug-23|South France|Membership|White|1750|8750
+Aug-23|South France|Membership|Brown|1550|7750
+Aug-23|South France|Membership|Multigrain|1350|6750
+Aug-23|South France|Retail|White|3200|12800
+Aug-23|South France|Retail|Brown|2800|11200
+Aug-23|South France|Retail|Multigrain|2300|9200
+Sep-23|Paris|Online|White|2200|11000
+Sep-23|Paris|Online|Brown|1900|9500
+Sep-23|Paris|Online|Multigrain|1600|8000
+Sep-23|Paris|Membership|White|2600|13000
+Sep-23|Paris|Membership|Brown|2300|11500
+Sep-23|Paris|Membership|Multigrain|2000|10000
+Sep-23|Paris|Retail|White|5300|21200
+Sep-23|Paris|Retail|Brown|4600|18400
+Sep-23|Paris|Retail|Multigrain|3800|15200
+Sep-23|South France|Online|White|1500|7500
+Sep-23|South France|Online|Brown|1300|6500
+Sep-23|South France|Online|Multigrain|1100|5500
+Sep-23|South France|Membership|White|1800|9000
+Sep-23|South France|Membership|Brown|1600|8000
+Sep-23|South France|Membership|Multigrain|1400|7000
+Sep-23|South France|Retail|White|3300|13200
+Sep-23|South France|Retail|Brown|2900|11600
+Sep-23|South France|Retail|Multigrain|2400|9600
+Oct-23|Paris|Online|White|2250|11250
+Oct-23|Paris|Online|Brown|1950|9750
+Oct-23|Paris|Online|Multigrain|1650|8250
+Oct-23|Paris|Membership|White|2650|13250
+Oct-23|Paris|Membership|Brown|2350|11750
+Oct-23|Paris|Membership|Multigrain|2050|10250
+Oct-23|Paris|Retail|White|5400|21600
+Oct-23|Paris|Retail|Brown|4700|18800
+Oct-23|Paris|Retail|Multigrain|3900|15600
+Oct-23|South France|Online|White|1550|7750
+Oct-23|South France|Online|Brown|1350|6750
+Oct-23|South France|Online|Multigrain|1150|5750
+Oct-23|South France|Membership|White|1850|9250
+Oct-23|South France|Membership|Brown|1650|8250
+Oct-23|South France|Membership|Multigrain|1450|7250
+Oct-23|South France|Retail|White|3400|13600
+Oct-23|South France|Retail|Brown|3000|12000
+Oct-23|South France|Retail|Multigrain|2500|10000
+Nov-23|Paris|Online|White|2300|11500
+Nov-23|Paris|Online|Brown|2000|10000
+Nov-23|Paris|Online|Multigrain|1700|8500
+Nov-23|Paris|Membership|White|2700|13500
+Nov-23|Paris|Membership|Brown|2400|12000
+Nov-23|Paris|Membership|Multigrain|2100|10500
+Nov-23|Paris|Retail|White|5500|22000
+Nov-23|Paris|Retail|Brown|4800|19200
+Nov-23|Paris|Retail|Multigrain|4000|16000
+Nov-23|South France|Online|White|1600|8000
+Nov-23|South France|Online|Brown|1400|7000
+Nov-23|South France|Online|Multigrain|1200|6000
+Nov-23|South France|Membership|White|1900|9500
+Nov-23|South France|Membership|Brown|1700|8500
+Nov-23|South France|Membership|Multigrain|1500|7500
+Nov-23|South France|Retail|White|3500|14000
+Nov-23|South France|Retail|Brown|3100|12400
+Nov-23|South France|Retail|Multigrain|2600|10400
+Dec-23|Paris|Online|White|2350|11750
+Dec-23|Paris|Online|Brown|2050|10250
+Dec-23|Paris|Online|Multigrain|1750|8750
+Dec-23|Paris|Membership|White|2750|13750
+Dec-23|Paris|Membership|Brown|2450|12250
+Dec-23|Paris|Membership|Multigrain|2150|10750
+Dec-23|Paris|Retail|White|5600|22400
+Dec-23|Paris|Retail|Brown|4900|19600
+Dec-23|Paris|Retail|Multigrain|4100|16400
+Dec-23|South France|Online|White|1650|8250
+Dec-23|South France|Online|Brown|1450|7250
+Dec-23|South France|Online|Multigrain|1250|6250
+Dec-23|South France|Membership|White|1950|9750
+Dec-23|South France|Membership|Brown|1750|8750
+Dec-23|South France|Membership|Multigrain|1550|7750
+Dec-23|South France|Retail|White|3600|14400
+Dec-23|South France|Retail|Brown|3200|12800
+Dec-23|South France|Retail|Multigrain|2700|10800
